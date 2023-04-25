@@ -5,10 +5,8 @@ Adafruit_PWMServoDriver motorPWM = Adafruit_PWMServoDriver();
 
 
 
-int upperPot = A1;
-int upperVal;
 int servo;
-int the;
+
 
 
 void setup() {
